@@ -30,3 +30,6 @@ Please refer to the [`LICENSE`](./LICENSE) file.
 
 -   **Email address.** rohanbari4@gmail.com
 -   **Twitter.** [@\_rohanbari](https://twitter.com/_rohanbari)
+
+---
+<sup>**1.** Almost all the HTML files are independent to each other.</sup>
