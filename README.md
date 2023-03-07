@@ -8,7 +8,7 @@ If you like them, give it a star!
 ## Get Started
 
 First, clone the repository to your local machine. Then, proceed to the
-[`./src`](./src) directory. To run the sites<sup>1</sup>, open them individually
+[`./src`](./src) directory. To run the sites*, open them individually
 since not all files are interconnected.
 
 ## Coding Environment
@@ -32,4 +32,4 @@ Please refer to the [`LICENSE`](./LICENSE) file.
 -   **Twitter.** [@\_rohanbari](https://twitter.com/_rohanbari)
 
 ---
-<sup>**1.** Almost all the HTML files are independent to each other.</sup>
+<sup>* Almost all the HTML files are independent to each other.</sup>
